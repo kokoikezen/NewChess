@@ -1,1 +1,1 @@
-# NewChess
+# TBS chess
